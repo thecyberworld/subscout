@@ -1,10 +1,10 @@
 # subdomain-finder
 
-A fast port scanner written in python with a focus on reliability and simplicity.
+A fast subdomain finder written in python with a focus on reliability and simplicity.
 
 ### Prerequisites
 
-- [Git](https://www.python.org/downloads/)
+- [Git](https://github.com/git-guides/install-git)
 - [Python3](https://www.python.org/downlods/)
 
 #### 🛠️ Installation Steps
@@ -39,7 +39,7 @@ A fast port scanner written in python with a focus on reliability and simplicity
 
 ## 🛡️ License
 
-port-scanner is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+subdomain-finder is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Support
 
