@@ -1,7 +1,7 @@
 import requests
-import sys
 from pyfiglet import Figlet
 import threading
+import argparse
 
 def search_subdomains(subs_chunk):
     for sub in subs_chunk:
@@ -35,5 +35,8 @@ def search(domain_name: str):
 
 
 if __name__ == "__main__":
-    domain_name = sys.argv[1]
+    parser = argparse.ArgumentParser(description="Subdomain Finder")
+    parser.add_argument("domain", help="Domain name to search subdomains for")
+    args = parser.parse_args()
+    domain_name = args.domain
     search(domain_name)
