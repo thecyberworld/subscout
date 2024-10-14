@@ -30,7 +30,7 @@ Discover Hidden Subdomains Effortlessly.
 ## 👨‍💻 Contributing
 
 > If you are new to Git and GitHub then must check
-> out **[git-github-practice](https://github.com/cryptoverseWeb3/git-github-practice)** repository **first** and
+> out **[First Contribution](https://github.com/thecyberworld/first-contribution)** repository **first** and
 > contribute to it before you contributing to other open-source projects.
 
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
