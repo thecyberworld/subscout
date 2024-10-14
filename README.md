@@ -1,6 +1,6 @@
-# subdomain-finder
+# SubScout
 
-A fast subdomain finder written in python with a focus on reliability and simplicity.
+Discover Hidden Subdomains Effortlessly.
 
 ### Prerequisites
 
