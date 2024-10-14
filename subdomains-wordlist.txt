@@ -1,6 +1,4 @@
-blogs
-blog
-www
+3d
 a
 acceptatie
 access
@@ -9,10 +7,13 @@ accounts
 ad
 adm
 admin
+admin1
+administration
 administrator
 ads
 adserver
 affiliate
+affiliate1
 affiliates
 agenda
 alpha
@@ -20,6 +21,7 @@ alumni
 analytics
 ann
 api
+api1
 apollo
 app
 apps
@@ -27,6 +29,7 @@ ar
 archive
 art
 assets
+assets1
 atlas
 auth
 auto
@@ -43,6 +46,7 @@ barracuda
 bb
 bbs
 beta
+beta1
 biblioteca
 billing
 blackboard
@@ -183,6 +187,8 @@ event
 events
 ex
 example
+example1
+example2
 examples
 exchange
 external
@@ -244,6 +250,7 @@ heracles
 hercules
 hermes
 home
+home1
 homer
 host
 host2
@@ -337,6 +344,7 @@ localhost
 log
 loghost
 login
+logins
 logon
 logs
 london
@@ -367,6 +375,7 @@ mailman
 mailserver
 main
 manage
+management
 manager
 mantis
 map
@@ -421,6 +430,7 @@ mx1
 mx2
 mx3
 my
+myaccount
 mysql
 mysql2
 n
@@ -480,6 +490,7 @@ operations
 ops
 ora
 oracle
+orders
 origin
 orion
 os
@@ -496,6 +507,7 @@ partner
 partners
 pay
 payment
+payment1
 payments
 pbx
 pcanywhere
@@ -532,7 +544,9 @@ preview
 private
 pro
 prod
+product
 production
+products
 project
 projects
 promo
@@ -561,6 +575,7 @@ report
 reports
 repos
 research
+research1
 resources
 restricted
 reviews
@@ -578,6 +593,7 @@ s3
 s4
 sa
 sales
+sales1
 sample
 samples
 sandbox
@@ -596,6 +612,7 @@ share
 sharepoint
 shell
 shop
+shop1
 shopping
 signup
 sip
@@ -631,6 +648,7 @@ st
 staff
 stage
 staging
+staging1
 start
 stat
 static
@@ -645,6 +663,7 @@ streaming
 student
 sun
 support
+support1
 survey
 sv
 svn
@@ -659,6 +678,7 @@ test1
 test2
 test3
 testing
+testing1
 testsite
 testweb
 tfs
@@ -687,6 +707,7 @@ unix
 up
 update
 upload
+upload1
 uploads
 us
 user
@@ -729,17 +750,20 @@ web3
 web4
 web5
 webadmin
+webapp
 webcam
 webconf
 webct
 webdb
 webdisk
+webinar
 weblog
 webmail
 webmail2
 webmaster
 webmin
 webservices
+website
 webstats
 webstore
 whm
@@ -750,6 +774,7 @@ win32
 windows
 wordpress
 work
+workshop
 wp
 ws
 wsus
@@ -779,6 +804,8 @@ wwwold
 wwww
 x
 xml
+z1
+z2
 zabbix
 zeus
 zimbra
